@@ -9,6 +9,6 @@ export default defineConfig({
   ],
   server: {
     host: '0.0.0.0',
-    allowedHosts: 'all',
+    allowedHosts: ['imagify-g1am.onrender.com'],
   },
 })
